@@ -44,3 +44,6 @@ next-env.d.ts
 # intellij
 /.idea/
 /wine.iml
+
+# eslint
+.eslintrc.json
